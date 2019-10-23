@@ -17,4 +17,6 @@ comment7.params=
 comment7.target=double\ getY()
 comment8.params=outro
 comment8.target=Coordenates\ clone(Coordenates)
-numComments=9
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

@@ -9,7 +9,7 @@ public class Coordenates
 {
     private double x;
     private double y;
-   
+    
     private Coordenates(){
     
        x = 0;
@@ -58,5 +58,9 @@ public class Coordenates
         return new Coordenates(this);
         
     }   
+    
+    public String toString(){
+    return(this.x+","+this.y);
+    }
 }   
 
