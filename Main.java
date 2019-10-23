@@ -8,9 +8,8 @@ import java.util.Scanner;
 public class Main
 {
     public static void main(String[] args){
-        Log start = new log();
-        Scanner ler = new Scanner(System.in);
-        
+      
+
         System.out.println("----------------------------------");
         System.out.println("----------EntregasExpress---------");
         System.out.println("----------------------------------");
