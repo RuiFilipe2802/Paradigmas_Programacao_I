@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Company
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Empresa\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Company()
+comment2.params=c
+comment2.target=void\ addClient(Client)
+comment3.params=t
+comment3.target=void\ addTransporter(Transporter)
+comment4.params=n
+comment4.target=void\ remClient(java.lang.String)
+comment5.params=x
+comment5.target=void\ remTransporter(java.lang.String)
+numComments=6
